@@ -1,8 +1,8 @@
-### Hola, I'm Theivaprakasham! 👋
+### Hola, I'm Theivaprakasham Hari! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Theivaprakasham)
 
-Master's Graduate in **Artificial Intelligence and Data Science** from <b> Amrita School of Engineering</b> (Location: Coimbatore, Tamil Nadu, India).
+Currently pursuing my PhD at Delft University of Technology (TU Delft, Netherlands). Master's Graduate in **Artificial Intelligence and Data Science** from <b> Amrita School of Engineering</b> (Location: Coimbatore, Tamil Nadu, India).
  I'm a <b> Full Stack AI Developer</b>  🤓 | <b>Webapp Developer</b> 👨🏻‍💻 | <b>Pythoneer</b> 🐍 | <b>Researcher</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳.
  I specialize in building end-to-end efficient and robust Artificial Intelligence products (Computer Vision, Natural Language Processing and Speech Processing) for industries and individuals.
 
